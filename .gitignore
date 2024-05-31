@@ -1,0 +1,9 @@
+
+# build artifacts
+ch*/ex*
+!ch*/ex*.*
+*.o
+
+# clangd
+compile_commands.json
+.cache/
